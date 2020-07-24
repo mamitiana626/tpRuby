@@ -3,10 +3,10 @@ escalier = 0
 partie = 'o'
 nombre_de_partie = 0
 
-
 puts "//Lancement de la partie//"
 while partie == 'o'
-    puts "//Le dE lance..."
+    puts "=============================================================="
+    puts "Le dE se lance..."
     d_random = rand(1..6)
     puts "Le dE fait #{d_random} :)"
     case d_random
@@ -26,12 +26,11 @@ while partie == 'o'
           puts "Vous etes sur la case : #{escalier}" 
         when 2,3,4
            puts "\n hahaha! :P Rien ne se passe,vous restez sur la meme position case #{escalier}"
+           puts "Vous etes sur la case : #{escalier}" 
     end
     if escalier == etage
-        puts "//Bravo vous etes arrivE//"
-        puts "Relancez le dE?:o/n"
-        nombre_de_partie = nombre_de_partie + 1
-        partie = gets.chomp
+        puts "\n--------||| Bravo!!! vous etes arrivE au 10eme etages |||--------\n"
+        break
     else 
         puts "Relancez le dE?:o/n"
         nombre_de_partie = nombre_de_partie + 1

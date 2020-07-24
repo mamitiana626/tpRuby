@@ -14,6 +14,7 @@
 		1.3 la troisième methode est à peut près la même que la methode ci-dessus , mais seulement avec deux methode different qui est la méthode "ask_first_name" qui demande de saisir votre nom et "say_hello3" qui salut le nom
 
 2.**Vacances en Égypte**
+
 Lancer le fichier 01_pyramids.rb dans le terminal,
 En premier lieu le programme affiche deux choix
  - Saisir: 1 -> Tester
@@ -39,13 +40,16 @@ Lancer le fichier 02_password.rb dans le terminal,
 		3.3 la méthode **welcome_screen** ne s'execute qu'une fois l'utilisateur entre la bonne mot de passe et enfin l'utilisateur aura access au sécret de l'immortaliter
 
  4.**6ème sans ascenceur**
- Lancer le fichier 03_stairway.rb dans le terminal, 
+
+ Lancer le fichier 03_stairway.rb dans le terminal,
+
  Le programme à pour but de lancer un dE et de monter jusqu'au 10ème étage en fonction de resultat du dE
- 4.1 Si le résultat de votre dE est de  **5** ou **6**, elle avance d'une marche et le programme le dit **Bravo!!! Vous avez avancer une marche** et ensuite il demande de rélancer le dE
- 4.2 Si le résultat de votre dE est de **1**, elle descend d'une case et le programme le dit **(>_<) oh! Courage, ce n'est pas la fin du monde,  (^_^) Vous descend une marche** et ensuite il demande de rélancer le dE
- 4.3 Si le résultat de votre dE est de **2,3,4**,rien ne se passe et le programme dit **hahaha! :P Rien ne se passe,vous restez sur la meme position**, et ensuite il demande de rélancer le dE
- 4.4 Le Programme ne s'arrete qu'une fois vous atteeint la **10eme étages** et vous félicite
- 4.5 A la fin du jeu un petit statistique vas s'afficher et démontre au joueur "le nombre de tours moyen pour arriver au 10ème étage"
+
+		4.1 Si le résultat de votre dE est de  **5** ou **6**, elle avance d'une marche et le programme le dit **Bravo!!! Vous avez avancer une marche** et ensuite il demande de rélancer le dE
+		4.2 Si le résultat de votre dE est de **1**, elle descend d'une case et le programme le dit **(>_<) oh! Courage, ce n'est pas la fin du monde,  (^_^) Vous descend une marche** et ensuite il demande de rélancer le dE
+		4.3 Si le résultat de votre dE est de **2,3,4**,rien ne se passe et le programme dit **hahaha! :P Rien ne se passe,vous restez sur la meme position**, et ensuite il demande de rélancer le dE
+		4.4 Le Programme ne s'arrete qu'une fois vous atteeint la **10eme étages** et vous félicite
+		4.5 A la fin du jeu un petit statistique vas s'afficher et démontre au joueur "le nombre de tours moyen pour arriver au 10ème étage"
 
 #**Auteurs**
 Réalisé par **Sayna #9 - SENSEI - Groupe #4**

@@ -15,10 +15,20 @@ Le mini-projet contient 4 exercice
 
  2.**Vacances en Égypte**
  Lancer le fichier 01_pyramids.rb dans le terminal, 
- Ensuite le programme demande à l'utilisateur de saisir un nombre
- 2.1 la premier methode vas s'executer qui est **half_pyramid** c'est un programme qui réalise un demi pyramide en fontion du valeur entrer dans la saisie
- 2.2 la deuxième méthode qui est la  **full_pyramid**  consiste à monter un pyramide complet
- 2.3 la troisième méthode **wtf_pyramid** qui fait deux pyramide à  la fois dont l'une est l'inverse du premier
+ En premier lieu le programme affiche deux choix
+ 	* Saisir: 1 -> Tester
+	* Saisir: 4 -> Quitter le programme
+ Veuillez Choisir **1** pour tester le programme sinon **4** pour la quitter
+ Si vous avez choisi **1** une nouvelle menu s'affiche telque :
+ 	* Saisir: 1 -> Moitié de pyramide
+    * Saisir: 2 -> Pyramide de Gizeh
+    * Saisir: 3 -> Alexandre Alexandre
+    * Saisir: 4 -> Quitter le programme
+
+ 2.1 choix **1** consiste à monter un demi pyramide avec la méthode **half_pyramid** en fonction de choix de nombre d'etage
+ 2.2 choix **2** consiste à monter un pyramide complet avec la méthode  **full_pyramid** en fonction de choix de nombre d'etage
+ 2.3 choix **3** consiste à monter deux pyramides complet à la fois avec la méthode **wtf_pyramid** dont l'une est l'inverse du premier
+ 2.4 choix **4** bien sur cet choix permet de quitter le programme
 
  3.**Mon petit mot de passe**
  Lancer le fichier 02_password.rb dans le terminal, 

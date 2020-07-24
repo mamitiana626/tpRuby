@@ -1,19 +1,17 @@
 #**tpRuby**
-C'est un mini-projet en **ruby** qui nous permet de s'exercer sur les **boucles**, **fonctions** et **conditions**.
-Le mini-projet contient 4 exercice
- 1. Coucou toi
- 2. Vacances en Égypte
- 3. Mon petit mot de passe
- 4. 6ème sans ascenceurs
+	C'est un mini-projet en **ruby** qui nous permet de s'exercer sur les **boucles**, **fonctions** et **conditions**.
+	Le mini-projet contient 4 exercice
+	1. Coucou toi
+	2. Vacances en Égypte
+	3. Mon petit mot de passe
+	4. 6ème sans ascenceurs
 
 #**Fonctionnalité** 
  1. **Coucou toi**
  Lancer le fichier 00_hello.rb dans le terminal, 
- 	1.1 Une fois lancer la premier methode vas s'executer qui est un programme qui dit bonjour en ruby sans enter de variable
-
-	1.2 la deuxième methode consiste à saisir le nom de la personne et ensuite la saluer
-
-	1.3 la troisième methode est à peut près la même que la methode ci-dessus , mais seulement avec deux methode different qui est la méthode "ask_first_name" qui demande de saisir votre nom et "say_hello3" qui salut le nom
+ 		1.1 Une fois lancer la premier methode vas s'executer qui est un programme qui dit bonjour en ruby sans enter de variable
+		1.2 la deuxième methode consiste à saisir le nom de la personne et ensuite la saluer
+		1.3 la troisième methode est à peut près la même que la methode ci-dessus , mais seulement avec deux methode different qui est la méthode "ask_first_name" qui demande de saisir votre nom et "say_hello3" qui salut le nom
 
 2.**Vacances en Égypte**
 Lancer le fichier 01_pyramids.rb dans le terminal,
@@ -32,12 +30,12 @@ Si vous avez choisi **1** une nouvelle menu s'affiche telque :
 		2.3 choix **3** consiste à monter deux pyramides complet à la fois avec la méthode **wtf_pyramid** dont l'une est l'inverse du premier
 		2.4 choix **4** bien sur cet choix permet de quitter le programme
 
- 3.**Mon petit mot de passe**
- Lancer le fichier 02_password.rb dans le terminal, 
- 3.1 Dès que le fichier 02_password.rb dans le terminal la méthode **signup** vas s'executer qui demande de définir un nouveau mot de passe.
- 3.2 Une fois le mot de passe valider dans la méthode **signup** , la méthode **login** vas s'executer à son tour, et demande à l' utilisateur d'entrer son mot de passe. 
- Tant qu'il n'arrive pas à trouver la bonne mot de passe une message s'affiche **Erreur!!! verifier votre mot de passe** et demande de rétaper votre mot de passe
- 3.3 la méthode **welcome_screen** ne s'execute qu'une fois l'utilisateur entre la bonne mot de passe et enfin l'utilisateur aura access au sécret de l'immortaliter
+3.**Mon petit mot de passe**
+ 	Lancer le fichier 02_password.rb dans le terminal, 
+ 		3.1 Dès que le fichier 02_password.rb dans le terminal la méthode **signup** vas s'executer qui demande de définir un nouveau mot de passe.
+ 		3.2 Une fois le mot de passe valider dans la méthode **signup** , la méthode **login** vas s'executer à son tour, et demande à l' utilisateur d'entrer son mot de passe. 
+ 		Tant qu'il n'arrive pas à trouver la bonne mot de passe une message s'affiche **Erreur!!! verifier votre mot de passe** et demande de rétaper votre mot de passe
+ 		3.3 la méthode **welcome_screen** ne s'execute qu'une fois l'utilisateur entre la bonne mot de passe et enfin l'utilisateur aura access au sécret de l'immortaliter
 
  4.**6ème sans ascenceur**
  Lancer le fichier 03_stairway.rb dans le terminal, 

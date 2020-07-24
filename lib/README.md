@@ -11,13 +11,13 @@ Le mini-projet contient 4 exercice
 
 #**Fonctionnalité** 
 
-1.**Coucou toi**
+1.**Coucou toi** 
 
-Lancer le fichier 00_hello.rb dans le terminal, 
+Lancer le fichier 00_hello.rb dans le terminal,  
 
- 		1.1 Une fois lancer la premier methode vas s'executer qui est un programme qui dit bonjour en ruby sans enter de variable
-		1.2 la deuxième methode consiste à saisir le nom de la personne et ensuite la saluer
-		1.3 la troisième methode est à peut près la même que la methode ci-dessus , mais seulement avec deux methode different qui est la méthode "ask_first_name" qui demande de saisir votre nom et "say_hello3" qui salut le nom
+	1.1 Une fois lancer la premier methode vas s'executer qui est un programme qui dit bonjour en ruby sans enter de variable
+	1.2 la deuxième methode consiste à saisir le nom de la personne et ensuite la saluer
+	1.3 la troisième methode est à peut près la même que la methode ci-dessus , mais seulement avec deux methode different qui est la méthode "ask_first_name" qui demande de saisir votre nom et "say_hello3" qui salut le nom
 
 2.**Vacances en Égypte**
 

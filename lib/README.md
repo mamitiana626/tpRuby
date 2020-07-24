@@ -29,12 +29,14 @@ Si vous avez choisi **1** une nouvelle menu s'affiche telque :
 		2.2 choix **2** consiste à monter un pyramide complet avec la méthode **full_pyramid** en fonction de choix de nombre d'etage
 		2.3 choix **3** consiste à monter deux pyramides complet à la fois avec la méthode **wtf_pyramid** dont l'une est l'inverse du premier
 		2.4 choix **4** bien sur cet choix permet de quitter le programme
-
+		
 3.**Mon petit mot de passe**
+
 Lancer le fichier 02_password.rb dans le terminal,
-	3.1 Dès que le fichier 02_password.rb dans le terminal la méthode **signup** vas s'executer qui demande de définir un nouveau mot de passe.
-	3.2 Une fois le mot de passe valider dans la méthode **signup** , la méthode **login** vas s'executer à son tour, et demande à l' utilisateur d'entrer son mot de passe.Tant qu'il n'arrive pas à trouver la bonne mot de passe une message s'affiche **Erreur!!! verifier votre mot de passe** et demande de rétaper votre mot de passe.
-	3.3 la méthode **welcome_screen** ne s'execute qu'une fois l'utilisateur entre la bonne mot de passe et enfin l'utilisateur aura access au sécret de l'immortaliter
+
+		3.1 Dès que le fichier 02_password.rb dans le terminal la méthode **signup** vas s'executer qui demande de définir un nouveau mot de passe.
+		3.2 Une fois le mot de passe valider dans la méthode **signup** , la méthode **login** vas s'executer à son tour, et demande à l' utilisateur d'entrer son mot de passe.Tant qu'il n'arrive pas à trouver la bonne mot de passe une message s'affiche **Erreur!!! verifier votre mot de passe** et demande de rétaper votre mot de passe.
+		3.3 la méthode **welcome_screen** ne s'execute qu'une fois l'utilisateur entre la bonne mot de passe et enfin l'utilisateur aura access au sécret de l'immortaliter
 
  4.**6ème sans ascenceur**
  Lancer le fichier 03_stairway.rb dans le terminal, 

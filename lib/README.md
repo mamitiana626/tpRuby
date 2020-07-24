@@ -15,22 +15,22 @@ Le mini-projet contient 4 exercice
 
 	1.3 la troisième methode est à peut près la même que la methode ci-dessus , mais seulement avec deux methode different qui est la méthode "ask_first_name" qui demande de saisir votre nom et "say_hello3" qui salut le nom
 
- 2.**Vacances en Égypte**
- Lancer le fichier 01_pyramids.rb dans le terminal, 
- En premier lieu le programme affiche deux choix
- 	* Saisir: 1 -> Tester
-	* Saisir: 4 -> Quitter le programme
- Veuillez Choisir **1** pour tester le programme sinon **4** pour la quitter
- Si vous avez choisi **1** une nouvelle menu s'affiche telque :
- 	* Saisir: 1 -> Moitié de pyramide
-    * Saisir: 2 -> Pyramide de Gizeh
-    * Saisir: 3 -> Alexandre Alexandre
-    * Saisir: 4 -> Quitter le programme
+2.**Vacances en Égypte**
+Lancer le fichier 01_pyramids.rb dans le terminal,
+En premier lieu le programme affiche deux choix
+ - Saisir: 1 -> Tester
+ - Saisir: 4 -> Quitter le programme
+Veuillez Choisir **1** pour tester le programme sinon **4** pour la quitter
+Si vous avez choisi **1** une nouvelle menu s'affiche telque :
+ - Saisir: 1 -> Moitié de pyramide
+ - Saisir: 2 -> Pyramide de Gizeh
+ - Saisir: 3 -> Alexandre Alexandre
+ - Saisir: 4 -> Quitter le programme  
 
- 2.1 choix **1** consiste à monter un demi pyramide avec la méthode **half_pyramid** en fonction de choix de nombre d'etage
- 2.2 choix **2** consiste à monter un pyramide complet avec la méthode  **full_pyramid** en fonction de choix de nombre d'etage
- 2.3 choix **3** consiste à monter deux pyramides complet à la fois avec la méthode **wtf_pyramid** dont l'une est l'inverse du premier
- 2.4 choix **4** bien sur cet choix permet de quitter le programme
+		2.1 choix **1** consiste à monter un demi pyramide avec la méthode **half_pyramid** en fonction de choix de nombre d'etage
+		2.2 choix **2** consiste à monter un pyramide complet avec la méthode **full_pyramid** en fonction de choix de nombre d'etage
+		2.3 choix **3** consiste à monter deux pyramides complet à la fois avec la méthode **wtf_pyramid** dont l'une est l'inverse du premier
+		2.4 choix **4** bien sur cet choix permet de quitter le programme
 
  3.**Mon petit mot de passe**
  Lancer le fichier 02_password.rb dans le terminal, 

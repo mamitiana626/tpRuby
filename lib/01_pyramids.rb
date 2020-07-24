@@ -63,7 +63,7 @@ if n==4
     puts "\nMerci de tester notre programme"
 end 
 while n!=4
-    puts "\tPYRAMIDE DE RAMSES II "
+    puts "\n\tPYRAMIDE DE RAMSES II "
     puts "\n-------||| MENUS |||-------"
     puts "Saisir: 1 -> Moitié de pyramide"
     puts "Saisir: 2 -> Pyramide de Gizeh"
@@ -87,11 +87,16 @@ while n!=4
         puts "\n 2.2.2 Pyramide de Gizeh"
         full_pyramid(res)
         when 3
-            puts "nbr pyramide (impaire)"
+            puts "nbr pyramide nombre(impaire)"
             n = gets.chomp
             res = n.to_f
-            puts "\n 2.2.3. Alexandrie, Alexandra"
-            wtf_pyramid(res)  
+            if res%2 == 1
+                puts "\n 2.2.3. Alexandrie, Alexandra"
+                wtf_pyramid(res)  
+            else  
+                puts "Vous avez entrer un nombre paire (#{n}) veuillez reEssayer:"
+                puts "Veuillez reEssayer et saisir un nombre IMPAIRE"
+            end 
         when 4
             puts "\nMerci de tester notre programme"
             break 

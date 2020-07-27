@@ -51,11 +51,13 @@ def wtf_pyramid(n)
     end
 end
 
+#menu pour tester le programme ou le quitter
 puts "\tPYRAMIDE DE RAMSES II "
 puts "\n-------||| MENUS |||-------"
 puts "Saisir: 1 -> Tester"
 puts "Saisir: 4 -> Quitter le programme"
 
+#si au cas ou l'utilisateur quitte le programme
 puts "\nVeuillez choisir votre choix :"
 n = gets.chomp
 n = n.to_i
@@ -75,18 +77,21 @@ while n!=4
 
     case n
         when 1
+            #choix 1 :construction moitier pyramide
             puts "Nombre etage du pyramide : "
             n = gets.chomp
             res = n.to_i
         puts "\n 2.2.1 Moitié de pyramide : "
         half_pyramid(res)
         when 2
+            #choix 2 :construction pyramide complet
             puts "nbr pyramide"
             n = gets.chomp
             res = n.to_i
         puts "\n 2.2.2 Pyramide de Gizeh"
         full_pyramid(res)
         when 3
+            #choix 3 :construction 2 pyramide l'une inverse de l'autre
             puts "nbr pyramide nombre(impaire)"
             n = gets.chomp
             res = n.to_f
@@ -98,6 +103,7 @@ while n!=4
                 puts "Veuillez reEssayer et saisir un nombre IMPAIRE"
             end 
         when 4
+            #choix 4 :pour qutter le programme
             puts "\nMerci de tester notre programme"
             break 
     end
